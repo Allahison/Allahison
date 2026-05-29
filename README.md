@@ -104,3 +104,5 @@ Proud graduate of **SMIT — Saylani Mass IT Training (Batch 7)**.
   <blockquote><em>"Write code that solves problems. Build products that change lives."</em></blockquote>
   <p>© 2026 Muhammad Arslan — Pakistan 🇵🇰</p>
 </div>
+
+<!-- updated -->
