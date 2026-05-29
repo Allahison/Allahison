@@ -1,10 +1,22 @@
-     _   _         _                     _   _                        
-    | | | |   _   | |_   __ _   _ __    | \ | |   __ _   _ __ ___   
-    | |_| |  | |  | __|  / _` | | '_ \  |  \| |  / _` | | '_ ` _ \ 
-    |  _  |  | |  | |_  | (_| | | | | | | |\  | | (_| | | | | | | |
-    |_| |_|  |_|   \__|  \__,_| |_| |_| |_| \_|  \__,_| |_| |_| |_|
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Allahison/Allahison/main/banner.svg" width="100%" alt="Muhammad Arslan Banner"/>
+</div>
 
-# 👋 Welcome — I'm @Allahison
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Allahison/Allahison/main/avatar.svg" width="120" height="120" alt="Avatar"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%26+React+Native+Developer+%F0%9F%93%B1;Laravel+%26+PHP+Developer+%F0%9F%94%A5;Building+Innovative+Solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ![Dev Badge](https://img.shields.io/badge/Full%20Stack%20Developer-181717?style=flat-square&logo=github)
 ![React Badge](https://img.shields.io/badge/React%20%26%20React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -17,7 +29,7 @@
 
 ## 🧩 Who I Am
 
-Hi! I'm Muhammad Arslan, a Full Stack Developer from **Pakistan**, known as `@Allahison` in the dev world. I'm passionate about:
+Hi! I'm **Muhammad Arslan**, a Full Stack Developer from **Pakistan 🇵🇰**, known as `@Allahison` in the dev world. I'm passionate about:
 
 - 💻 Building scalable web & mobile applications.
 - 🤖 Integrating AI into real-world solutions.
