@@ -11,6 +11,7 @@
 ![Laravel Badge](https://img.shields.io/badge/Laravel%20%26%20PHP-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=Allahison&color=blueviolet&style=flat-square)
 [![Follow](https://img.shields.io/github/followers/Allahison?label=Follow&style=social)](https://github.com/Allahison)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arslan-aa8808276/)
 
 ---
 
@@ -30,6 +31,7 @@ Proud graduate of **SMIT — Saylani Mass IT Training (Batch 7)**.
 ## 🧭 Reach Out
 
 - 📧 [maneeq201@gmail.com](mailto:maneeq201@gmail.com)
+- 💼 [LinkedIn — Muhammad Arslan](https://www.linkedin.com/in/muhammad-arslan-aa8808276/)
 - 🐙 [github.com/Allahison](https://github.com/Allahison)
 
 ---
