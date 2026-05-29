@@ -36,7 +36,7 @@ Hi! I'm **Muhammad Arslan**, a Full Stack Developer from **Pakistan 🇵🇰**, 
 - 📱 Creating smooth cross-platform mobile experiences.
 - 🚀 Turning complex problems into clean, efficient code.
 
-Proud graduate of **SMIT — Saylani Mass IT Training (Batch 7)**.
+Proud graduate of **Riphah international university**.
 
 ---
 
