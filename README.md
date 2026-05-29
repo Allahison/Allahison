@@ -35,7 +35,7 @@ Proud graduate of **SMIT — Saylani Mass IT Training (Batch 7)**.
 
 ## 🧭 Reach Out
 
-- 📧 [maneeq201@gmail.com](mailto:maneeq201@gmail.com)
+- 📧 [hafiz.ars.21@gmail.com](mailto:hafiz.ars.21@gmail.com)
 - 💼 [LinkedIn — Muhammad Arslan](https://www.linkedin.com/in/muhammad-arslan-aa8808276/)
 - 🐙 [github.com/Allahison](https://github.com/Allahison)
 
